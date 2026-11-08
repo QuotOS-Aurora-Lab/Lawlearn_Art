@@ -28,15 +28,15 @@ Lawlearn 的**艺术资源、角色档案与世界观设定**仓库。
 └── LICENSE
 ```
 
-## 角色一览
+## 角色
 
-| 角色 | 定位 | 档案 |
-|---|---|---|
-| Cecil | 赛博章鱼男管家，理性、克制、护短 | [Characters/Cecil.md](Characters/Cecil.md) |
-| Aetheria | 赛博章鱼娘女仆，傲娇但靠谱 | [Characters/Aetheria.md](Characters/Aetheria.md) |
-| Nox | 粉紫色小幽灵吉祥物，呆萌但关键时刻很聪明 | [Characters/Nox.md](Characters/Nox.md) |
-| 夏依恩 / Scheien | 獬豸化形的大小姐，傲娇毒舌、讲究格式 | [Characters/Scheien.md](Characters/Scheien.md) |
-| 夏珩 / Scheng | 初代法理獬豸与雪原狼王的后裔；触不直者，断不平事 | [Characters/Scheng.md](Characters/Scheng.md) |
+| 角色 | 英文名 / 内部 id | 人设简介 | 档案 |
+|---|---|---|---|
+| **谢辞希** | Cecil / `cecil` | 英伦毒舌管家。冷静、克制、护短，措辞讲究，习惯称你一声「阁下」；先替你解决问题，再谈风度。 | [Characters/Cecil.md](Characters/Cecil.md) |
+| **伊诗雅** | Aetheria / `aetheria` | 傲娇章鱼女仆。嘴上不饶人，心里全是照看；越是嘴硬，越在关键时刻把你护得好好的。 | [Characters/Aetheria.md](Characters/Aetheria.md) |
+| **罗亘斯** | Nox / `nox` | 无性别数据幽灵。住在电脑里的粉紫色小幽灵，软软糯糯、说话慢半拍；别被呆萌骗了，关键时刻一句就说到点子上。 | [Characters/Nox.md](Characters/Nox.md) |
+| **夏依恩** | Scheien / `scheien` | 獬豸化形的大小姐。傲娇毒舌、讲究格式，一个标点都不肯放过；嘴上刻薄，真遇上不公，第一个替你出头。 | [Characters/Scheien.md](Characters/Scheien.md) |
+| **夏珩** | Scheng（世界观角色） | 初代法理獬豸与雪原狼王的后裔。通体雪白、头顶独角、金瞳；「触不直者，断不平事」。 | [Characters/Scheng.md](Characters/Scheng.md) |
 
 ## 资源说明
 

@@ -17,9 +17,9 @@ Assets/Characters/<角色>/
 
 | 角色 | 文件夹 | 备注 |
 |---|---|---|
-| Cecil | `Characters/Cecil/` | 赛博章鱼男管家 |
-| Aetheria | `Characters/Aetheria/` | 赛博章鱼娘女仆 |
-| Nox | `Characters/Nox/` | 粉紫色小幽灵 |
+| 谢辞希 / Cecil | `Characters/Cecil/` | 英伦毒舌管家 |
+| 伊诗雅 / Aetheria | `Characters/Aetheria/` | 傲娇章鱼女仆 |
+| 罗亘斯 / Nox | `Characters/Nox/` | 无性别数据幽灵 |
 | 夏依恩 / Scheien | `Characters/Scheien/` | 獬豸化形的大小姐；含人形 Q 版与设定图 |
 | 夏珩 / Scheng | `Characters/Scheng/` | 初代法理獬豸与雪原狼王的后裔；兽形设定图 |
 

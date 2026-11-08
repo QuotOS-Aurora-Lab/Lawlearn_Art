@@ -7,15 +7,15 @@
 
 ## 角色索引
 
-| 角色 | 英文/内部 id | 定位 | 档案 |
-|---|---|---|---|
-| Cecil | `cecil` | 赛博章鱼男管家 | [Cecil.md](Cecil.md) |
-| Aetheria | `aetheria` | 赛博章鱼娘女仆 | [Aetheria.md](Aetheria.md) |
-| Nox | `nox` | 粉紫色小幽灵吉祥物 | [Nox.md](Nox.md) |
-| 夏依恩 / Scheien | `scheien` | 獬豸化形的大小姐 | [Scheien.md](Scheien.md) |
-| 夏珩 / Scheng | —（世界观角色） | 初代法理獬豸与雪原狼王的后裔 | [Scheng.md](Scheng.md) |
+| 中文名 | 英文名 | 内部 id | 定位 | 档案 |
+|---|---|---|---|---|
+| 谢辞希 | Cecil | `cecil` | 英伦毒舌管家 | [Cecil.md](Cecil.md) |
+| 伊诗雅 | Aetheria | `aetheria` | 傲娇章鱼女仆 | [Aetheria.md](Aetheria.md) |
+| 罗亘斯 | Nox | `nox` | 无性别数据幽灵 | [Nox.md](Nox.md) |
+| 夏依恩 | Scheien | `scheien` | 獬豸化形的大小姐 | [Scheien.md](Scheien.md) |
+| 夏珩 | Scheng | —（世界观角色） | 初代法理獬豸与雪原狼王的后裔 | [Scheng.md](Scheng.md) |
 
-> 夏依恩的人形素材在 `Assets/Characters/Scheien/`；兽形素材按设定正名归入 `Assets/Characters/Scheng/` 与 `Assets/Expressions/Scheng/Moe/`（原始文件夹名分别为 `夏桁_Ori`、`夏桁_Moe`）。
+> 中文名是展示名；英文名与内部 id 保持不变，供程序读取。夏依恩的人形素材在 `Assets/Characters/Scheien/`；兽形素材按设定正名归入 `Assets/Characters/Scheng/` 与 `Assets/Expressions/Scheng/Moe/`（原始文件夹名分别为 `夏桁_Ori`、`夏桁_Moe`）。
 
 ## 设定字段
 

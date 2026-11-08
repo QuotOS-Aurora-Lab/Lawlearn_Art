@@ -6,7 +6,7 @@
 - `*_color.png`：160 × 160 彩色头像，适合列表、卡片和社交平台头像。
 - `*_ic.svg`：2048 × 2048 矢量图标，适合界面图标与印刷。
 
-当前角色：Cecil、Aetheria、Nox、夏依恩（Scheien）、夏珩（Scheng）。
+当前角色：谢辞希（Cecil）、伊诗雅（Aetheria）、罗亘斯（Nox）、夏依恩（Scheien）、夏珩（Scheng）。
 
 ## 夏依恩 / Scheien
 
