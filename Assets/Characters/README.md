@@ -26,6 +26,8 @@ Scheien/
 
 ```text
 Scheng/
+├── Scheng_avatar.png        # 1254 × 1254 头像大图（取自 Ori/scheng_ori_01.png）
+├── Scheng_color.png         # 160 × 160 彩色头像
 ├── Ori/                      # 6 张兽形设定图（原始文件夹名：夏桁_Ori）
 └── README.md
 ```

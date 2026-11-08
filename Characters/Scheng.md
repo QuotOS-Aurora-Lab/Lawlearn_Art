@@ -1,5 +1,7 @@
 # 夏珩 / Scheng
 
+![夏珩 头像](../Assets/Characters/Scheng/Scheng_color.png)
+
 **触不直者，断不平事**
 
 ## 基本信息
