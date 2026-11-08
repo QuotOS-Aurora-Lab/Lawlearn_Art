@@ -27,6 +27,16 @@
 - [主立绘 1254×1254](../Assets/Characters/Scheien/Scheien_master.png)
 - [彩色头像 160×160](../Assets/Characters/Scheien/Scheien_color.png)
 - [矢量图标 2048×2048](../Assets/Characters/Scheien/Scheien_ic.svg)
+- [头像大图 1254×1254](../Assets/Characters/Scheien/Scheien_avatar.png)
+- [人形 Q 版（2 张）](../Assets/Characters/Scheien/Humanoid/Moe/)
+- [人形设定图（8 张）](../Assets/Characters/Scheien/Humanoid/Ori/)
+- [兽形角色：夏珩 / Scheng](Scheng.md)
+- [兽形设定图（6 张）](../Assets/Characters/Scheng/Ori/)
+- [兽形表情包（10 张）](../Assets/Expressions/Scheng/Moe/)
+- [四格漫画·中文版](../Assets/Comics/Scheng_Scheien_4koma_zh.png)
+- [四格漫画·日文版](../Assets/Comics/Scheng_Scheien_4koma_ja.png)
+
+素材明细与原始文件名见 [Scheien 素材索引](../Assets/Characters/Scheien/README.md)。
 
 ## 完整设定
 

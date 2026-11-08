@@ -1,0 +1,34 @@
+# 夏珩 / Scheng
+
+**触不直者，断不平事**
+
+## 基本信息
+
+- **英文名**：Scheng
+- **定位**：初代法理獬豸与雪原狼王的后裔
+- **时代**：黄帝纪元 · 涿鹿之战后
+- **核心意象**：通体雪白、头顶独角、金瞳；如雪原极光般掠过堂前，以独角指心辨伪
+- **象征**：绝对法理与绝对武力的契约后裔
+
+## 角色简介
+
+上古涿鹿战后，皋陶苦于罪疑者巧舌如簧，在极北幽都祭坛祈求天地降下能明辨是非的神物。天地感应，降下初代法理獬豸。
+
+极北冰原的雪原狼王率狼群前来挑衅，却被獬豸的金瞳与独角折服，甘愿俯首，化为獬豸最锋利的獠牙。此后，獬豸立于皋陶堂前，以独角顶向狡辩者，“触不直者而去之”，奠定千古法理基石。
+
+象征“绝对武力”的雪狼王与象征“绝对法理”的初代獬豸结下跨越物种的契约，最终诞下独一无二的后裔——**夏珩（Scheng）**。
+
+完整神话见 [Worldbuilding/mythology/Scheng-Origin.md](../Worldbuilding/mythology/Scheng-Origin.md)。
+
+## 素材
+
+- [兽形设定图（6 张）](../Assets/Characters/Scheng/Ori/)
+- [兽形 Q 版表情（10 张）](../Assets/Expressions/Scheng/Moe/)
+- [四格漫画·中文版](../Assets/Comics/Scheng_Scheien_4koma_zh.png)
+- [四格漫画·日文版](../Assets/Comics/Scheng_Scheien_4koma_ja.png)
+
+素材明细与原始文件名见 [Scheng 素材索引](../Assets/Characters/Scheng/README.md)。
+
+## 相关角色
+
+- [夏依恩 / Scheien](Scheien.md)

@@ -13,6 +13,9 @@
 | Aetheria | `aetheria` | 赛博章鱼娘女仆 | [Aetheria.md](Aetheria.md) |
 | Nox | `nox` | 粉紫色小幽灵吉祥物 | [Nox.md](Nox.md) |
 | 夏依恩 / Scheien | `scheien` | 獬豸化形的大小姐 | [Scheien.md](Scheien.md) |
+| 夏珩 / Scheng | —（世界观角色） | 初代法理獬豸与雪原狼王的后裔 | [Scheng.md](Scheng.md) |
+
+> 夏依恩的人形素材在 `Assets/Characters/Scheien/`；兽形素材按设定正名归入 `Assets/Characters/Scheng/` 与 `Assets/Expressions/Scheng/Moe/`（原始文件夹名分别为 `夏桁_Ori`、`夏桁_Moe`）。
 
 ## 设定字段
 

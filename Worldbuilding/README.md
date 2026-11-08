@@ -2,7 +2,11 @@
 
 Lawlearn / QuotOS 世界观设定目录。
 
-当前为初始占位，等待补充。建议按以下分类组织：
+当前已有：
+
+- [`mythology/Scheng-Origin.md`](mythology/Scheng-Origin.md)：夏珩（Scheng）的起源神话——涿鹿之战后、皋陶、初代法理獬豸与雪原狼王。
+
+建议按以下分类组织：
 
 - `mythology/`：神话体系、神兽与獬豸设定
 - `factions/`：组织、机构与阵营

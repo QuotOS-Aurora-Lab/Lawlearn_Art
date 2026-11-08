@@ -20,7 +20,8 @@ Assets/Characters/<角色>/
 | Cecil | `Characters/Cecil/` | 赛博章鱼男管家 |
 | Aetheria | `Characters/Aetheria/` | 赛博章鱼娘女仆 |
 | Nox | `Characters/Nox/` | 粉紫色小幽灵 |
-| 夏依恩 / Scheien | `Characters/Scheien/` | 獬豸化形的大小姐 |
+| 夏依恩 / Scheien | `Characters/Scheien/` | 獬豸化形的大小姐；含人形 Q 版与设定图 |
+| 夏珩 / Scheng | `Characters/Scheng/` | 初代法理獬豸与雪原狼王的后裔；兽形设定图 |
 
 ## Icons
 
@@ -35,11 +36,12 @@ Assets/Characters/<角色>/
 
 - `Brand/AppIcon.icns`：Lawlearn macOS 应用图标。
 - `Brand/version-evolution.png`：版本演进视觉，1738 × 316。
+- `Brand/Lawlearn_Ad.mp4`：Lawlearn 广告片。
 
 ## Expressions / Comics
 
-- `Expressions/`：表情包，待补充。
-- `Comics/`：四格漫画，待补充。
+- `Expressions/Scheng/Moe/`：10 张夏珩兽形 Q 版表情。
+- `Comics/Scheng_Scheien_4koma_zh.png`、`Scheng_Scheien_4koma_ja.png`：夏珩与夏依恩的四格漫画中文版/日文版。
 
 ## 来源
 
@@ -50,3 +52,11 @@ Assets/Characters/<角色>/
 - `Sources/Lawlearn/Resources/icons/` → `Assets/Icons/`
 - `Sources/Lawlearn/Resources/AppIcon.icns` → `Assets/Brand/AppIcon.icns`
 - `assets/version-evolution.png` → `Assets/Brand/version-evolution.png`
+
+追加素材来自本次提供的 `未命名文件夹 2`：
+
+- `夏依恩_Moe` / `夏依恩_Ori` → `Assets/Characters/Scheien/Humanoid/`
+- `夏桁_Moe` / `夏桁_Ori` → `Assets/Characters/Scheng/Ori/`、`Assets/Expressions/Scheng/Moe/`
+- `Comics` → `Assets/Comics/Scheng_Scheien_4koma_*.png`
+- `Scheien_avatar.PNG` → `Assets/Characters/Scheien/Scheien_avatar.png`
+- `Lawlearn_Ad.MP4` → `Assets/Brand/Lawlearn_Ad.mp4`

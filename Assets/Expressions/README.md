@@ -1,15 +1,8 @@
 # 表情包
 
-待补充。
+当前包含：
 
-建议按角色建子目录：
+- `Scheng/Moe/`：10 张 Q 版兽形表情，原始素材文件夹为 `夏桁_Moe`。
+  - 索引与原始文件名：[`Scheng/README.md`](Scheng/README.md)
 
-```text
-Expressions/
-├── Cecil/
-├── Aetheria/
-├── Nox/
-└── Scheien/
-```
-
-每张表情包建议使用透明 PNG 或 WebP，并在文件名中写明情绪/用途，例如 `cecil_smirk_01.png`。
+其余角色的表情包待补充。新增时按角色建子目录，例如 `Cecil/`、`Aetheria/`、`Nox/`，并使用透明 PNG 或 WebP。
