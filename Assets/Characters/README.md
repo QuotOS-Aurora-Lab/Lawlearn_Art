@@ -1,12 +1,33 @@
 # 角色素材
 
-每个角色一个目录，统一放基础三类文件：
+每个角色一个目录，统一放基础三类文件，并可按需追加全身立绘：
 
 - `*_master.png`：1254 × 1254 主立绘，适合展示、裁切和二次排版。
 - `*_color.png`：160 × 160 彩色头像，适合列表、卡片和社交平台头像。
 - `*_ic.svg`：2048 × 2048 矢量图标，适合界面图标与印刷。
+- `*_fullbody.png`：1024 × 1536 全身立绘，白底，适合角色页、海报和二次排版。
 
 当前角色：谢辞希（Cecil）、伊诗雅（Aetheria）、罗亘斯（Nox）、夏依恩（Scheien）、夏珩（Scheng）。
+
+## 伊诗雅 / Aetheria
+
+```text
+Aetheria/
+├── Aetheria_master.png
+├── Aetheria_color.png
+├── Aetheria_ic.svg
+├── Aetheria_fullbody.png    # 1024 × 1536 全身立绘
+```
+
+## 谢辞希 / Cecil
+
+```text
+Cecil/
+├── Cecil_master.png
+├── Cecil_color.png
+├── Cecil_ic.svg
+├── Cecil_fullbody.png       # 1024 × 1536 全身立绘
+```
 
 ## 夏依恩 / Scheien
 
