@@ -29,6 +29,7 @@
 - [兽形 Q 版表情（10 张）](../Assets/Expressions/Scheng/Moe/)
 - [四格漫画《挂饰误会》· 中文版](../Assets/Comics/挂饰误会/zh.png)
 - [四格漫画《挂饰误会》· 日文版](../Assets/Comics/挂饰误会/ja.png)
+- [四格漫画《降温的好处》· 中文版](../Assets/Comics/降温的好处/zh.png)
 
 素材明细与原始文件名见 [Scheng 素材索引](../Assets/Characters/Scheng/README.md)。
 
