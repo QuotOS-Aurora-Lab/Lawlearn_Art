@@ -6,11 +6,11 @@ Lawlearn 的**艺术资源、角色档案与世界观设定**仓库。
 
 ## 四格漫画
 
-<a href="Assets/Comics/Scheng_Scheien_4koma_zh.png"><img src="Assets/Comics/Scheng_Scheien_4koma_zh.png" alt="夏珩与夏依恩的四格漫画·中文版" width="720"></a>
+<a href="Assets/Comics/挂饰误会/zh.png"><img src="Assets/Comics/挂饰误会/zh.png" alt="夏珩与夏依恩的四格漫画·中文版" width="720"></a>
 
-夏珩与夏依恩 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/Scheng_Scheien_4koma_zh.png) · [日文版](Assets/Comics/Scheng_Scheien_4koma_ja.png)
+《挂饰误会》· 夏珩与夏依恩 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/挂饰误会/zh.png) · [日文版](Assets/Comics/挂饰误会/ja.png)
 
-另一组《法律学习与短视频风波》· 德语版（作者 / 夏珩 / 伊诗雅，1254 × 1254）。[查看原图](Assets/Comics/Author_Scheng_Aetheria_4koma_de.png) · [漫画目录](Assets/Comics/README.md)
+《法律学习与短视频风波》· 作者 / 夏珩 / 伊诗雅 · 德语版（1254 × 1254）。[查看原图](Assets/Comics/法律学习与短视频风波/de.png) · [漫画目录](Assets/Comics/README.md)
 
 > 当前内容最初整理自 [`QuotOS-Aurora-Lab/Lawlearn_Mac`](https://github.com/QuotOS-Aurora-Lab/Lawlearn_Mac)（commit `ef61355`），后续会继续补充世界观、表情包、四格漫画等内容。
 

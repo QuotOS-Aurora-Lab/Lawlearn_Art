@@ -44,7 +44,8 @@ Assets/Characters/<角色>/
 ## Expressions / Comics
 
 - `Expressions/Scheng/Moe/`：10 张夏珩兽形 Q 版表情。
-- `Comics/Scheng_Scheien_4koma_zh.png`、`Scheng_Scheien_4koma_ja.png`：夏珩与夏依恩的四格漫画中文版/日文版。
+- `Comics/挂饰误会/zh.png`、`ja.png`：夏珩与夏依恩的四格漫画《挂饰误会》中文版/日文版。
+- `Comics/法律学习与短视频风波/de.png`：作者、夏珩与伊诗雅的四格漫画《法律学习与短视频风波》德语版。
 
 ## 来源
 
@@ -60,6 +61,6 @@ Assets/Characters/<角色>/
 
 - `夏依恩_Moe` / `夏依恩_Ori` → `Assets/Characters/Scheien/Humanoid/`
 - `夏桁_Moe` / `夏桁_Ori` → `Assets/Characters/Scheng/Ori/`、`Assets/Expressions/Scheng/Moe/`
-- `Comics` → `Assets/Comics/Scheng_Scheien_4koma_*.png`
+- `Comics` → `Assets/Comics/挂饰误会/`
 - `Scheien_avatar.PNG` → `Assets/Characters/Scheien/Scheien_avatar.png`
 - `Lawlearn_Ad.MP4` → `Assets/Brand/Lawlearn_Ad.mp4`

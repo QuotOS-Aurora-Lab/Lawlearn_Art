@@ -27,8 +27,8 @@
 
 - [兽形设定图（6 张）](../Assets/Characters/Scheng/Ori/)
 - [兽形 Q 版表情（10 张）](../Assets/Expressions/Scheng/Moe/)
-- [四格漫画·中文版](../Assets/Comics/Scheng_Scheien_4koma_zh.png)
-- [四格漫画·日文版](../Assets/Comics/Scheng_Scheien_4koma_ja.png)
+- [四格漫画《挂饰误会》· 中文版](../Assets/Comics/挂饰误会/zh.png)
+- [四格漫画《挂饰误会》· 日文版](../Assets/Comics/挂饰误会/ja.png)
 
 素材明细与原始文件名见 [Scheng 素材索引](../Assets/Characters/Scheng/README.md)。
 

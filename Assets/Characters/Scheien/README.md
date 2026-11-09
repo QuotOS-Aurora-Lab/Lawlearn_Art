@@ -32,4 +32,4 @@
 
 - 兽形角色：[Scheng / 夏珩](../../../Characters/Scheng.md)
 - 表情包：[`Assets/Expressions/Scheng/Moe/`](../../../Assets/Expressions/Scheng/Moe/)
-- 四格漫画：[中文版](../../../Assets/Comics/Scheng_Scheien_4koma_zh.png) · [日文版](../../../Assets/Comics/Scheng_Scheien_4koma_ja.png)
+- 四格漫画《挂饰误会》：[中文版](../../../Assets/Comics/挂饰误会/zh.png) · [日文版](../../../Assets/Comics/挂饰误会/ja.png)
