@@ -10,7 +10,8 @@ Lawlearn 的视觉资源目录。
 Assets/Characters/<角色>/
 ├── <角色>_master.png   # 1254 × 1254 主立绘
 ├── <角色>_color.png    # 160 × 160 彩色头像
-└── <角色>_ic.svg       # 2048 × 2048 矢量图标
+├── <角色>_ic.svg       # 2048 × 2048 矢量图标
+└── <角色>_fullbody.png # 3:4 全身立绘（可选）
 ```
 
 当前包含：
@@ -22,6 +23,7 @@ Assets/Characters/<角色>/
 | 罗亘斯 / Nox | `Characters/Nox/` | 无性别数据幽灵 |
 | 夏依恩 / Scheien | `Characters/Scheien/` | 獬豸化形的大小姐；含人形 Q 版与设定图 |
 | 夏珩 / Scheng | `Characters/Scheng/` | 初代法理獬豸与雪原狼王的后裔；兽形设定图 |
+| 作者 / 开发者 | `Characters/Author/` | 苦逼开发者；非五位法理神明之一 |
 
 ## Icons
 

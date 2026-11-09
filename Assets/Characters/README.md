@@ -9,6 +9,15 @@
 
 当前角色：谢辞希（Cecil）、伊诗雅（Aetheria）、罗亘斯（Nox）、夏依恩（Scheien）、夏珩（Scheng）。
 
+## 作者 / 开发者（元角色）
+
+作者不是五位法理神明之一，也不在离线誓约的签署者名单里；他是把第七码头写进硬盘的人。
+
+```text
+Author/
+└── Author_fullbody.png      # 1086 × 1448 作者形象（苦逼开发者）
+```
+
 ## 伊诗雅 / Aetheria
 
 ```text
