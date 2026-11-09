@@ -16,7 +16,7 @@ Lawlearn 的**艺术资源、角色档案与世界观设定**仓库。
 
 《劳逸结合》（2026-11-09）· 作者 / 夏珩 / 伊诗雅 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/劳逸结合/zh.png)
 
-《忘带伞》（2026-11-09）· 作者 / 夏珩 / 伊诗雅 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/忘带伞/zh.png)
+《忘带伞》（2026-11-10）· 作者 / 夏珩 / 伊诗雅 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/忘带伞/zh.png)
 
 > 当前内容最初整理自 [`QuotOS-Aurora-Lab/Lawlearn_Mac`](https://github.com/QuotOS-Aurora-Lab/Lawlearn_Mac)（commit `ef61355`），后续会继续补充世界观、表情包、四格漫画等内容。
 
