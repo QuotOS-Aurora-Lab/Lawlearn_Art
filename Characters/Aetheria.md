@@ -28,12 +28,6 @@
 - [主立绘 1254×1254](../Assets/Characters/Aetheria/Aetheria_master.png)
 - [彩色头像 160×160](../Assets/Characters/Aetheria/Aetheria_color.png)
 - [矢量图标 2048×2048](../Assets/Characters/Aetheria/Aetheria_ic.svg)
-- [四格漫画《法律学习与短视频风波》· 中文版](../Assets/Comics/法律学习与短视频风波/zh.png)
-- [四格漫画《法律学习与短视频风波》· 日文版](../Assets/Comics/法律学习与短视频风波/ja.png)
-- [四格漫画《法律学习与短视频风波》· 德语版](../Assets/Comics/法律学习与短视频风波/de.png)
-- [四格漫画《降温的好处》· 中文版](../Assets/Comics/降温的好处/zh.png)
-- [四格漫画《劳逸结合》· 中文版](../Assets/Comics/劳逸结合/zh.png)
-- [四格漫画《忘带伞》· 中文版](../Assets/Comics/忘带伞/zh.png)
 
 ## 完整设定
 

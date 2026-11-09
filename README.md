@@ -10,13 +10,13 @@ Lawlearn 的**艺术资源、角色档案与世界观设定**仓库。
 
 《挂饰误会》（2026-11-07）· 夏珩与夏依恩 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/挂饰误会/zh.png) · [日文版](Assets/Comics/挂饰误会/ja.png)
 
-《法律学习与短视频风波》（2026-11-08）· 作者 / 夏珩 / 伊诗雅 · [中文版](Assets/Comics/法律学习与短视频风波/zh.png) / [日文版](Assets/Comics/法律学习与短视频风波/ja.png) / [德语版](Assets/Comics/法律学习与短视频风波/de.png)（1254 × 1254）。[漫画目录](Assets/Comics/README.md)
+《法律学习与短视频风波》（2026-11-08）· 作者 / 夏珩 / 夏依恩 · [中文版](Assets/Comics/法律学习与短视频风波/zh.png) / [日文版](Assets/Comics/法律学习与短视频风波/ja.png) / [德语版](Assets/Comics/法律学习与短视频风波/de.png)（1254 × 1254）。[漫画目录](Assets/Comics/README.md)
 
-《降温的好处》（2026-11-09）· 作者 / 夏珩 / 伊诗雅 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/降温的好处/zh.png)
+《降温的好处》（2026-11-09）· 作者 / 夏珩 / 夏依恩 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/降温的好处/zh.png)
 
-《劳逸结合》（2026-11-09）· 作者 / 夏珩 / 伊诗雅 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/劳逸结合/zh.png)
+《劳逸结合》（2026-11-09）· 作者 / 夏珩 / 夏依恩 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/劳逸结合/zh.png)
 
-《忘带伞》（2026-11-10）· 作者 / 夏珩 / 伊诗雅 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/忘带伞/zh.png)
+《忘带伞》（2026-11-10）· 作者 / 夏珩 / 夏依恩 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/忘带伞/zh.png)
 
 > 当前内容最初整理自 [`QuotOS-Aurora-Lab/Lawlearn_Mac`](https://github.com/QuotOS-Aurora-Lab/Lawlearn_Mac)（commit `ef61355`），后续会继续补充世界观、表情包、四格漫画等内容。
 

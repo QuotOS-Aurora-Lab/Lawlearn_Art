@@ -33,3 +33,7 @@
 - 兽形角色：[Scheng / 夏珩](../../../Characters/Scheng.md)
 - 表情包：[`Assets/Expressions/Scheng/Moe/`](../../../Assets/Expressions/Scheng/Moe/)
 - 四格漫画《挂饰误会》：[中文版](../../../Assets/Comics/挂饰误会/zh.png) · [日文版](../../../Assets/Comics/挂饰误会/ja.png)
+- 四格漫画《法律学习与短视频风波》：[中文版](../../../Assets/Comics/法律学习与短视频风波/zh.png) · [日文版](../../../Assets/Comics/法律学习与短视频风波/ja.png) · [德语版](../../../Assets/Comics/法律学习与短视频风波/de.png)
+- 四格漫画《降温的好处》：[中文版](../../../Assets/Comics/降温的好处/zh.png)
+- 四格漫画《劳逸结合》：[中文版](../../../Assets/Comics/劳逸结合/zh.png)
+- 四格漫画《忘带伞》：[中文版](../../../Assets/Comics/忘带伞/zh.png)
