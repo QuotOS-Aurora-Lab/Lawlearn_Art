@@ -15,4 +15,4 @@
 | `Ori/scheng_ori_05.png` | `CEBC1420-AA0B-4892-834D-6CE2B0F2B370.PNG` | 1254 × 1254 |
 | `Ori/scheng_ori_06.png` | `D2D1487E-15A8-456C-85FB-0787544B94D8.PNG` | 1254 × 1254 |
 
-相关：表情包见 [`Assets/Expressions/Scheng/Moe/`](../../../Assets/Expressions/Scheng/Moe/)。
+相关：表情包见 [`Assets/Expressions/Scheng/Moe/`](../../../Assets/Expressions/Scheng/Moe/)（10 张）与 [`Assets/Expressions/Scheng/Origin/`](../../../Assets/Expressions/Scheng/Origin/)（24 张）。

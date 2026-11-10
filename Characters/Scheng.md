@@ -27,6 +27,7 @@
 
 - [兽形设定图（6 张）](../Assets/Characters/Scheng/Ori/)
 - [兽形 Q 版表情（10 张）](../Assets/Expressions/Scheng/Moe/)
+- [兽形 Q 版表情·围巾版（24 张）](../Assets/Expressions/Scheng/Origin/)
 - [四格漫画《挂饰误会》· 中文版](../Assets/Comics/挂饰误会/zh.png)
 - [四格漫画《挂饰误会》· 日文版](../Assets/Comics/挂饰误会/ja.png)
 - [四格漫画《法律学习与短视频风波》· 中文版](../Assets/Comics/法律学习与短视频风波/zh.png)
