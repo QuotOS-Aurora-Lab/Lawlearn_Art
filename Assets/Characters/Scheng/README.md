@@ -1,6 +1,6 @@
 # Scheng 素材索引
 
-夏珩（Scheng）的兽形设定图。原始素材文件夹名为 `夏桁_Ori`，按设定正名归入 `Scheng/Ori/`。
+夏珩（Scheng）的兽形与人形设定图。兽形原始素材文件夹名为 `夏桁_Ori`，按设定正名归入 `Scheng/Ori/`；人形立绘归入 `Scheng/Humanoid/Ori/`。
 
 头像选用 `Ori/scheng_ori_01.png`：它是现有素材里唯一正面侧脸、金色瞳孔清晰、白紫毛色与金色项圈同时出现的构图，画风和配色与夏依恩等角色的现有头像最接近。
 
@@ -14,5 +14,12 @@
 | `Ori/scheng_ori_04.png` | `C7B80E69-44BA-4F4C-81FF-76DF9266023B.PNG` | 1254 × 1254 |
 | `Ori/scheng_ori_05.png` | `CEBC1420-AA0B-4892-834D-6CE2B0F2B370.PNG` | 1254 × 1254 |
 | `Ori/scheng_ori_06.png` | `D2D1487E-15A8-456C-85FB-0787544B94D8.PNG` | 1254 × 1254 |
+
+## 人形 · Ori
+
+| 文件 | 说明 | 尺寸 |
+|---|---|---|
+| `Humanoid/Ori/scheng_humanoid_ori_01.png` | 人形立绘 01，2026-11-11 上传 | 1024 × 1536 |
+| `Humanoid/Ori/scheng_humanoid_ori_02.png` | 人形立绘 02，2026-11-11 上传 | 1024 × 1536 |
 
 相关：表情包见 [`Assets/Expressions/Scheng/Moe/`](../../../Assets/Expressions/Scheng/Moe/)（10 张）与 [`Assets/Expressions/Scheng/Origin/`](../../../Assets/Expressions/Scheng/Origin/)（24 张）。

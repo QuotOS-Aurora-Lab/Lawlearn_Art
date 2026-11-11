@@ -26,6 +26,7 @@
 ## 素材
 
 - [兽形设定图（6 张）](../Assets/Characters/Scheng/Ori/)
+- [人形设定图（2 张）](../Assets/Characters/Scheng/Humanoid/Ori/)
 - [兽形 Q 版表情（10 张）](../Assets/Expressions/Scheng/Moe/)
 - [兽形 Q 版表情·围巾版（24 张）](../Assets/Expressions/Scheng/Origin/)
 - [四格漫画《挂饰误会》· 中文版](../Assets/Comics/挂饰误会/zh.png)
