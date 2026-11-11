@@ -1,8 +1,8 @@
 # Lawlearn Art
 
-Lawlearn 的**艺术资源、角色档案与世界观设定**仓库。
+Lawlearn 的**艺术资源、角色档案、世界观设定与长篇作品**仓库。
 
-这里集中存放与 Lawlearn 相关的角色立绘、头像、图标、品牌视觉，以及角色性格与说话方式的设定，方便后续补充、整理和对外展示。
+这里集中存放与 Lawlearn 相关的角色立绘、头像、图标、品牌视觉、角色设定，以及世界观与独立创作，方便后续补充、整理和对外展示。
 
 ## 四格漫画
 
@@ -20,6 +20,10 @@ Lawlearn 的**艺术资源、角色档案与世界观设定**仓库。
 
 > 当前内容最初整理自 [`QuotOS-Aurora-Lab/Lawlearn_Mac`](https://github.com/QuotOS-Aurora-Lab/Lawlearn_Mac)（commit `ef61355`），后续会继续补充世界观、表情包、四格漫画等内容。
 
+## 长篇作品
+
+《伪理想国》（2026-11-11 封卷）· LynneScheutie · 对话体小说，101 卷、第 1—1010 轮。正文、简繁 EPUB 与英文节译见 [Works/伪理想国](Works/伪理想国/README.md)。
+
 ## 目录
 
 ```text
@@ -27,6 +31,7 @@ Lawlearn 的**艺术资源、角色档案与世界观设定**仓库。
 ├── Characters/          # 角色档案：性格、语气、角色提示词与素材索引
 ├── Worldbuilding/       # 世界观设定：神话、组织、时间线、术语
 │   └── mythology/       # 神话与起源档案
+├── Works/               # 长篇与独立作品
 ├── Assets/
 │   ├── Characters/      # 角色立绘、头像、图标与设定图
 │   ├── Icons/           # Lawlearn 应用内图标
@@ -61,6 +66,7 @@ Lawlearn 的**艺术资源、角色档案与世界观设定**仓库。
 
 - 新增角色时，在 `Characters/` 下新增角色档案，并在 `Assets/Characters/<角色>/` 放对应素材。
 - 新增表情包放 `Assets/Expressions/`，四格漫画放 `Assets/Comics/`。
+- 长篇与独立作品放 `Works/`，按作品名建目录，正文、译本与成品分开放。
 - 世界观、神话体系、组织与时间线统一放 `Worldbuilding/`。
 
 ## License
