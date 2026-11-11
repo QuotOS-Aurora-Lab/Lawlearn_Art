@@ -28,6 +28,12 @@
 |---|---|---|
 | `Scheien_avatar.png` | `Scheien_avatar.PNG` | 1254 × 1254 |
 
+## 生成提示词
+
+| 文件 | 用途 |
+|---|---|
+| `Prompts/icon.md` | 移动端游戏图标（圆角方形 / 白底 / 1:1） |
+
 ## 相关
 
 - 兽形角色：[Scheng / 夏珩](../../../Characters/Scheng.md)
