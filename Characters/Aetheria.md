@@ -28,6 +28,7 @@
 - [主立绘 1254×1254](../Assets/Characters/Aetheria/Aetheria_master.png)
 - [彩色头像 160×160](../Assets/Characters/Aetheria/Aetheria_color.png)
 - [矢量图标 2048×2048](../Assets/Characters/Aetheria/Aetheria_ic.svg)
+- [移动端游戏图标 Prompt](../Assets/Characters/Aetheria/Prompts/icon.md)
 
 ## 完整设定
 
