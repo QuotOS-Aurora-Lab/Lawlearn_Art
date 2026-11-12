@@ -18,6 +18,16 @@ Lawlearn 的**艺术资源、角色档案、世界观设定与长篇作品**仓�
 
 《忘带伞》（2026-11-10）· 作者 / 夏珩 / 夏依恩 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/忘带伞/zh.png)
 
+《高效学习》（2026-11-12）· 作者 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/高效学习/zh.png)
+
+《镜子》（2026-11-12）· 作者 / 伊诗雅 / 夏珩（兽形）· [中文版](Assets/Comics/镜子/zh.png) / [日文版](Assets/Comics/镜子/ja.png)（1254 × 1254）。
+
+《肖像权周边》（2026-11-12）· 作者 · [简体中文版](Assets/Comics/肖像权周边/zh.png) / [繁体中文版](Assets/Comics/肖像权周边/zh-Hant.png) / [日文版](Assets/Comics/肖像权周边/ja.png)（1254 × 1254）。
+
+《明星同款》（2026-11-12）· 作者 / 伊诗雅 / 夏珩 · [简体中文版](Assets/Comics/明星同款/zh.png) / [繁体中文版](Assets/Comics/明星同款/zh-Hant.png)（1254 × 1254）。
+
+《模拟庭审》（2026-11-12）· 作者 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/模拟庭审/zh.png)
+
 > 当前内容最初整理自 [`QuotOS-Aurora-Lab/Lawlearn_Mac`](https://github.com/QuotOS-Aurora-Lab/Lawlearn_Mac)（commit `ef61355`），后续会继续补充世界观、表情包、四格漫画等内容。
 
 ## 长篇作品
