@@ -31,6 +31,7 @@
 - [头像大图 1254×1254](../Assets/Characters/Scheien/Scheien_avatar.png)
 - [人形 Q 版（2 张）](../Assets/Characters/Scheien/Humanoid/Moe/)
 - [人形设定图（8 张）](../Assets/Characters/Scheien/Humanoid/Ori/)
+- [人形皮肤（11 张）](../Assets/Characters/Scheien/Humanoid/Skins/)
 - [移动端游戏图标 Prompt](../Assets/Characters/Scheien/Prompts/icon.md)
 - [兽形角色：夏珩 / Scheng](Scheng.md)
 - [兽形设定图（6 张）](../Assets/Characters/Scheng/Ori/)
@@ -43,7 +44,6 @@
 - [四格漫画《法律学习与短视频风波》· 德语版](../Assets/Comics/法律学习与短视频风波/de.png)
 - [四格漫画《降温的好处》· 中文版](../Assets/Comics/降温的好处/zh.png)
 - [四格漫画《劳逸结合》· 中文版](../Assets/Comics/劳逸结合/zh.png)
-- [四格漫画《忘带伞》· 中文版](../Assets/Comics/忘带伞/zh.png)
 
 素材明细与原始文件名见 [Scheien 素材索引](../Assets/Characters/Scheien/README.md)。
 

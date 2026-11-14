@@ -22,7 +22,7 @@ Assets/Characters/<角色>/
 | 谢辞希 / Cecil | `Characters/Cecil/` | 英伦毒舌管家 |
 | 伊诗雅 / Aetheria | `Characters/Aetheria/` | 傲娇章鱼女仆 |
 | 罗亘斯 / Nox | `Characters/Nox/` | 无性别数据幽灵 |
-| 夏依恩 / Scheien | `Characters/Scheien/` | 獬豸化形的大小姐；含人形 Q 版与设定图 |
+| 夏依恩 / Scheien | `Characters/Scheien/` | 獬豸化形的大小姐；含人形 Q 版、设定图与服装皮肤 |
 | 夏珩 / Scheng | `Characters/Scheng/` | 初代法理獬豸与雪原狼王的后裔；兽形设定图 |
 | 作者 / 开发者 | `Characters/Author/` | 苦逼开发者；非五位法理神明之一 |
 
@@ -49,7 +49,6 @@ Assets/Characters/<角色>/
 - `Comics/法律学习与短视频风波/zh.png`、`ja.png`、`de.png`：作者、夏珩与夏依恩的四格漫画《法律学习与短视频风波》中文版/日文版/德语版（2026-11-08）。
 - `Comics/降温的好处/zh.png`：作者、夏珩与夏依恩的四格漫画《降温的好处》中文版（2026-11-09）。
 - `Comics/劳逸结合/zh.png`：作者、夏珩与夏依恩的四格漫画《劳逸结合》中文版（2026-11-09）。
-- `Comics/忘带伞/zh.png`：作者、夏珩与夏依恩的四格漫画《忘带伞》中文版（2026-11-10）。
 
 ## 来源
 

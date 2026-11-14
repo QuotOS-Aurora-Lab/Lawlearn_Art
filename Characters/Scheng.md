@@ -36,7 +36,6 @@
 - [四格漫画《法律学习与短视频风波》· 德语版](../Assets/Comics/法律学习与短视频风波/de.png)
 - [四格漫画《降温的好处》· 中文版](../Assets/Comics/降温的好处/zh.png)
 - [四格漫画《劳逸结合》· 中文版](../Assets/Comics/劳逸结合/zh.png)
-- [四格漫画《忘带伞》· 中文版](../Assets/Comics/忘带伞/zh.png)
 
 素材明细与原始文件名见 [Scheng 素材索引](../Assets/Characters/Scheng/README.md)。
 

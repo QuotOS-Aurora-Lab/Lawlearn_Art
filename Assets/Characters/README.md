@@ -51,7 +51,8 @@ Scheien/
 ├── Scheien_avatar.png        # 1254 × 1254 头像大图
 ├── Humanoid/
 │   ├── Moe/                  # 2 张 Q 版人形
-│   └── Ori/                  # 8 张人形设定图
+│   ├── Ori/                  # 8 张人形设定图
+│   └── Skins/                # 11 张服装皮肤
 └── README.md
 ```
 

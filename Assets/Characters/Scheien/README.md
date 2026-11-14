@@ -22,6 +22,22 @@
 | `Humanoid/Ori/scheien_humanoid_ori_07.png` | `B5FFEA09-22A9-4440-B475-5265F5B3589D.PNG` | 1024 × 1536 |
 | `Humanoid/Ori/scheien_humanoid_ori_08.jpg` | `IMG_3786.JPG` | 912 × 1136 |
 
+## 人形 · Skins
+
+| 文件 | 原始文件 | 尺寸 | 服装 / 构图 |
+|---|---|---|---|
+| `Humanoid/Skins/scheien_skin_01.png` | `3B1D30AC-B7E5-4404-9DC1-6705EF16D35C.PNG` | 1024 × 1536 | 军装礼服裤装，天平帽、金色肩章、长披风与法典书 |
+| `Humanoid/Skins/scheien_skin_02.png` | `3CB33D21-8DC4-455B-9B5F-656A96125E16.PNG` | 1024 × 1536 | 学院休闲，针织开衫、格纹短裙、咖啡杯与天平包 |
+| `Humanoid/Skins/scheien_skin_03.png` | `8C44DF18-9010-41FB-B720-3B434ADFCFE9.PNG` | 1024 × 1536 | 教官制服，短裙军装、教鞭与天平文件夹 |
+| `Humanoid/Skins/scheien_skin_04.png` | `47B399FE-947C-4DD2-AF75-6C3D3BFDBDAB.PNG` | 1024 × 1536 | 正装西装，条纹三件套、长裤与法典书 |
+| `Humanoid/Skins/scheien_skin_05.png` | `7390DCC1-21CA-46C9-882D-F22356C8E4FA.PNG` | 1024 × 1536 | 礼服长裙，毛披肩与层叠礼裙，身旁有夏珩兽形同伴 |
+| `Humanoid/Skins/scheien_skin_06.png` | `8770837A-87DC-432E-A5F6-00732770C439.PNG` | 1024 × 1536 | 万圣节女巫，南瓜灯、蝙蝠与蛛网纹样 |
+| `Humanoid/Skins/scheien_skin_07.png` | `91229184-DE57-4E08-AAE1-85D0F57993BE.PNG` | 1024 × 1536 | 洛丽塔礼裙，层叠花边、法典书与绑带高跟 |
+| `Humanoid/Skins/scheien_skin_08.png` | `A2E37F3D-AE4D-4168-9DB9-5B165E86501C.PNG` | 1024 × 1536 | 占星女巫，星象法杖、魔法书与星月纹样 |
+| `Humanoid/Skins/scheien_skin_09.png` | `B66DCAF5-6557-4A81-BCAF-805D519BD417.PNG` | 1024 × 1536 | 学者长袍，长袍马甲、教鞭与法典书 |
+| `Humanoid/Skins/scheien_skin_10.png` | `C33F9C94-7625-4EEF-BC97-DD5DD9475AF4.PNG` | 1122 × 1402 | 休闲半身，针织开衫、格裙，手持旗帜 |
+| `Humanoid/Skins/scheien_skin_11.png` | `C914B39B-945A-44DC-A922-967DFCC6562B.PNG` | 1024 × 1536 | 花边洋装，层叠礼裙、天平手提包与短靴 |
+
 ## 头像大图
 
 | 文件 | 原始文件 | 尺寸 |
@@ -42,4 +58,3 @@
 - 四格漫画《法律学习与短视频风波》：[中文版](../../../Assets/Comics/法律学习与短视频风波/zh.png) · [日文版](../../../Assets/Comics/法律学习与短视频风波/ja.png) · [德语版](../../../Assets/Comics/法律学习与短视频风波/de.png)
 - 四格漫画《降温的好处》：[中文版](../../../Assets/Comics/降温的好处/zh.png)
 - 四格漫画《劳逸结合》：[中文版](../../../Assets/Comics/劳逸结合/zh.png)
-- 四格漫画《忘带伞》：[中文版](../../../Assets/Comics/忘带伞/zh.png)
