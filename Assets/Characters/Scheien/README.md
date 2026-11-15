@@ -54,7 +54,7 @@
 
 - 兽形角色：[Scheng / 夏珩](../../../Characters/Scheng.md)
 - 表情包：[`Assets/Expressions/Scheng/Moe/`](../../../Assets/Expressions/Scheng/Moe/)
-- 四格漫画《挂饰误会》：[中文版](../../../Assets/Comics/挂饰误会/zh.png) · [日文版](../../../Assets/Comics/挂饰误会/ja.png)
-- 四格漫画《法律学习与短视频风波》：[中文版](../../../Assets/Comics/法律学习与短视频风波/zh.png) · [日文版](../../../Assets/Comics/法律学习与短视频风波/ja.png) · [德语版](../../../Assets/Comics/法律学习与短视频风波/de.png)
-- 四格漫画《降温的好处》：[中文版](../../../Assets/Comics/降温的好处/zh.png)
-- 四格漫画《劳逸结合》：[中文版](../../../Assets/Comics/劳逸结合/zh.png)
+- 四格漫画《【01_挂饰误会】》：[中文版](../../../Assets/Comics/【01_挂饰误会】/zh.png) · [日文版](../../../Assets/Comics/【01_挂饰误会】/ja.png)
+- 四格漫画《【02_法律学习与短视频风波】》：[中文版](../../../Assets/Comics/【02_法律学习与短视频风波】/zh.png) · [日文版](../../../Assets/Comics/【02_法律学习与短视频风波】/ja.png) · [德语版](../../../Assets/Comics/【02_法律学习与短视频风波】/de.png)
+- 四格漫画《【03_降温的好处】》：[中文版](../../../Assets/Comics/【03_降温的好处】/zh.png)
+- 四格漫画《【04_劳逸结合】》：[中文版](../../../Assets/Comics/【04_劳逸结合】/zh.png)

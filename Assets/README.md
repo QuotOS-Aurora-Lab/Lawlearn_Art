@@ -45,10 +45,10 @@ Assets/Characters/<角色>/
 
 - `Expressions/Scheng/Moe/`：10 张夏珩兽形 Q 版表情（金色项圈版）。
 - `Expressions/Scheng/Origin/`：24 张夏珩兽形 Q 版表情（紫色围巾版）。
-- `Comics/挂饰误会/zh.png`、`ja.png`：夏珩与夏依恩的四格漫画《挂饰误会》中文版/日文版（2026-11-07）。
-- `Comics/法律学习与短视频风波/zh.png`、`ja.png`、`de.png`：作者、夏珩与夏依恩的四格漫画《法律学习与短视频风波》中文版/日文版/德语版（2026-11-08）。
-- `Comics/降温的好处/zh.png`：作者、夏珩与夏依恩的四格漫画《降温的好处》中文版（2026-11-09）。
-- `Comics/劳逸结合/zh.png`：作者、夏珩与夏依恩的四格漫画《劳逸结合》中文版（2026-11-09）。
+- `Comics/【01_挂饰误会】/zh.png`、`ja.png`：夏珩与夏依恩的四格漫画《【01_挂饰误会】》中文版/日文版（2026-11-07）。
+- `Comics/【02_法律学习与短视频风波】/zh.png`、`ja.png`、`de.png`：作者、夏珩与夏依恩的四格漫画《【02_法律学习与短视频风波】》中文版/日文版/德语版（2026-11-08）。
+- `Comics/【03_降温的好处】/zh.png`：作者、夏珩与夏依恩的四格漫画《【03_降温的好处】》中文版（2026-11-09）。
+- `Comics/【04_劳逸结合】/zh.png`：作者、夏珩与夏依恩的四格漫画《【04_劳逸结合】》中文版（2026-11-09）。
 
 ## 来源
 
@@ -64,6 +64,6 @@ Assets/Characters/<角色>/
 
 - `夏依恩_Moe` / `夏依恩_Ori` → `Assets/Characters/Scheien/Humanoid/`
 - `夏桁_Moe` / `夏桁_Ori` / `夏珩_表情包（Origin）` → `Assets/Characters/Scheng/Ori/`、`Assets/Expressions/Scheng/Moe/`、`Assets/Expressions/Scheng/Origin/`
-- `Comics` → `Assets/Comics/挂饰误会/`
+- `Comics` → `Assets/Comics/【01_挂饰误会】/`
 - `Scheien_avatar.PNG` → `Assets/Characters/Scheien/Scheien_avatar.png`
 - `Lawlearn_Ad.MP4` → `Assets/Brand/Lawlearn_Ad.mp4`
