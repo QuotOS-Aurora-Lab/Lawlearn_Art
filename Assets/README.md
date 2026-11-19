@@ -45,6 +45,7 @@ Assets/Characters/<角色>/
 
 - `Expressions/Scheng/Moe/`：10 张夏珩兽形 Q 版表情（金色项圈版）。
 - `Expressions/Scheng/Origin/`：24 张夏珩兽形 Q 版表情（紫色围巾版）。
+- `Expressions/Scheng/Comic/`：1 张夏珩漫画衍生举牌表情。
 - `Comics/【01_挂饰误会】/zh.png`、`ja.png`：夏珩与夏依恩的四格漫画《【01_挂饰误会】》中文版/日文版（2026-11-07）。
 - `Comics/【02_法律学习与短视频风波】/zh.png`、`ja.png`、`de.png`：作者、夏珩与夏依恩的四格漫画《【02_法律学习与短视频风波】》中文版/日文版/德语版（2026-11-08）。
 - `Comics/【03_降温的好处】/zh.png`：作者、夏珩与夏依恩的四格漫画《【03_降温的好处】》中文版（2026-11-09）。
