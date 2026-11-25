@@ -37,7 +37,7 @@ Assets/Characters/<角色>/
 
 ## Brand
 
-- `Brand/AppIcon.icns`：Lawlearn macOS 应用图标。
+- `Brand/AppIcon.icns`：Lawlearn macOS 应用图标（4.5.1 扁平版）。
 - `Brand/version-evolution.png`：版本演进视觉，1738 × 316。
 - `Brand/Lawlearn_Ad.mp4`：Lawlearn 广告片。
 
@@ -50,6 +50,10 @@ Assets/Characters/<角色>/
 - `Comics/【02_法律学习与短视频风波】/zh.png`、`ja.png`、`de.png`：作者、夏珩与夏依恩的四格漫画《【02_法律学习与短视频风波】》中文版/日文版/德语版（2026-11-08）。
 - `Comics/【03_降温的好处】/zh.png`：作者、夏珩与夏依恩的四格漫画《【03_降温的好处】》中文版（2026-11-09）。
 - `Comics/【04_劳逸结合】/zh.png`：作者、夏珩与夏依恩的四格漫画《【04_劳逸结合】》中文版（2026-11-09）。
+
+## Illustrations
+
+- `Illustrations/夏依恩_法典与火.png`：夏依恩单幅插画《法典与火》，1087 × 1447（2026-11-25）。
 
 ## 来源
 

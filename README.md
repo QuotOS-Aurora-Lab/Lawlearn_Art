@@ -26,6 +26,12 @@ Lawlearn 的**艺术资源、角色档案、世界观设定与长篇作品**仓�
 
 《【09_高效学习】》（2026-11-12）· 作者 · 中文版（1254 × 1254）。[查看原图](Assets/Comics/【09_高效学习】/zh.png)
 
+## 单幅插画
+
+<a href="Assets/Illustrations/夏依恩_法典与火.png"><img src="Assets/Illustrations/夏依恩_法典与火.png" alt="夏依恩单幅插画《法典与火》" width="520"></a>
+
+《法典与火》（2026-11-25）· 夏依恩 · 紫发獬豸大小姐提着法典走过燃着的校园 · 1087 × 1447。[查看原图](Assets/Illustrations/夏依恩_法典与火.png)
+
 > 当前内容最初整理自 [`QuotOS-Aurora-Lab/Lawlearn_Mac`](https://github.com/QuotOS-Aurora-Lab/Lawlearn_Mac)（commit `ef61355`），后续会继续补充世界观、表情包、四格漫画等内容。
 
 ## 长篇作品
@@ -45,7 +51,8 @@ Lawlearn 的**艺术资源、角色档案、世界观设定与长篇作品**仓�
 │   ├── Icons/           # Lawlearn 应用内图标
 │   ├── Brand/           # 品牌视觉、App 图标、广告片
 │   ├── Expressions/     # 表情包
-│   └── Comics/          # 四格漫画
+│   ├── Comics/          # 四格漫画
+│   └── Illustrations/   # 单幅插画
 └── LICENSE
 ```
 
@@ -73,7 +80,7 @@ Lawlearn 的**艺术资源、角色档案、世界观设定与长篇作品**仓�
 ## 补充约定
 
 - 新增角色时，在 `Characters/` 下新增角色档案，并在 `Assets/Characters/<角色>/` 放对应素材。
-- 新增表情包放 `Assets/Expressions/`，四格漫画放 `Assets/Comics/`。
+- 新增表情包放 `Assets/Expressions/`，四格漫画放 `Assets/Comics/`，单幅插画放 `Assets/Illustrations/`。
 - 长篇与独立作品放 `Works/`，按作品名建目录，正文、译本与成品分开放。
 - 世界观、神话体系、组织与时间线统一放 `Worldbuilding/`。
 
